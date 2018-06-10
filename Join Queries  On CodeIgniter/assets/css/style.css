@@ -1,0 +1,28 @@
+.truncateDiv
+{
+	text-align: right;
+}
+.tableDiv
+{
+	margin-top: 2em;
+}
+.brandname
+{
+	height: 100%;
+	border: 1px solid grey;
+	/* background-color: grey; */
+
+}
+.branddescription
+{
+	margin-top: 2em;
+	height: 100%;
+	border: 1px solid grey;
+	/* background-color: grey; */
+
+}
+.error
+{
+	color:red;
+	font-weight: bolder;
+}
